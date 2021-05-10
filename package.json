@@ -12,7 +12,7 @@
   "devDependencies": {
     "@types/lodash": "^4.14.136",
     "css-loader": "^3.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "style-loader": "^1.0.0",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
